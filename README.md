@@ -1,10 +1,6 @@
-# Expense Tracker
+## Expense Tracker
 
 A Budget Tracker application created using Context API, State Management in React, Local Storage and Material UI. It has voice recognition feature enabled.
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm i && start`
 
